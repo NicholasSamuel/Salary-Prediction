@@ -1,2 +1,2 @@
 # Salary-Prediction
-Salary prediction based on years of experience using Java and GridDB
+Find build instructions in the article itself. 
